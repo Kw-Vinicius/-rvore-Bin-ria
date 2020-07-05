@@ -1,7 +1,4 @@
-# Arvore Binaria
-Estrutura de Dados ( ED ) / Funções com árvore binária
-
-## Funções utilizadas:
+# Funções utilizadas:
 - Inserir elemento na árvore
 - Excluir elemento da árvore
 - Exibir a árvore
